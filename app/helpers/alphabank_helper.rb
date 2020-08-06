@@ -1,0 +1,2 @@
+module AlphabankHelper
+end
